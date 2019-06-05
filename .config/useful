@@ -1,0 +1,18 @@
+# Set Layout in Xorg
+setxkbmap -layout se
+
+# Create ssh key
+ssh-keygen -t rsa -b 4096 -C "aleksey@twosense.ai"
+
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_rsa
+
+sudo pacman -S xclip
+
+xclip -sel clip < ~/.ssh/id_rsa.pub
+
+# feh
+
+feh --bg-fit '/path'
+

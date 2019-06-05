@@ -1,0 +1,351 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  cd /
+    5  cd ~
+    6  mkdir src
+    7  cd src
+    8  wget https://aur.archlinux.org/packages/br/broadcom-wl/broadcom-wl.tar.gz
+    9  pacman -S wget
+   10  root
+   11  su
+   12  su
+   13  sudo pacman -Syu
+   14  su
+   15  pacman -S firefox
+   16  su
+   17  dhcpcd
+   18  su
+   19  sudo pacman -S i3 rxvt-unicode dmenu
+   20  su
+   21  exit
+   22  xrandr
+   23  su
+   24  su
+   25  makepkg -si
+   26  ls
+   27  cd /tmp/yay_install/
+   28  l
+   29  ls
+   30  cd yay 
+   31  mkpkg -si
+   32  makepkg -si
+   33  sudo makepkg -si
+   34  cd ..
+   35  mv yay ~
+   36  sudo mv yay ~
+   37  su
+   38  ~
+   39  cd ~
+   40  cd yaya
+   41  cd yay
+   42  makepkg -si
+   43  su
+   44  makepkg -si
+   45  su
+   46  makepkg -si
+   47  sudo pacman -S feh imagemagick python-pip python-pywal
+   48  python -v
+   49  python --version
+   50  sudo pacman -S feh imagemagick python-pip python-pywal
+   51  sudo pacman -S cairo libxcd python2 xcb-proto xcb-util-image xcb-util-wm xcb-util-xrm jsoncpp
+   52  sudo pacman -S cairo libxcb python2 xcb-proto xcb-util-image xcb-util-wm xcb-util-xrm jsoncpp
+   53  cd ~
+   54  git clone https://github.com/IbrahimButt/direwolf-arch-rice.git
+   55  cp -r ~/direwolf-arch-rice/.config/ ~/
+   56  cp -r ~/direwolf-arch-rice/.Xresources ~/
+   57  xrdb .Xresources 
+   58  urxvt
+   59  ls
+   60  wal -i ~/Downloads/wallpaper.jpg 
+   61  yay -S otf-overpass
+   62  i3-msg reload
+   63  polybar bar
+   64  polybar bar
+   65  ls
+   66  cd ~
+   67  ls -lah
+   68  cd .config/
+   69  ls
+   70  cd i3
+   71  ls
+   72  vim congif
+   73  vim config
+   74  yay -S polybar-git
+   75  polybar bar
+   76  polybar bar
+   77  reboot
+   78  ls
+   79  polybar bar
+   80  wifi-menu
+   81  sudo wifi-menu
+   82  sudo pacman -S dialog
+   83  wifi-menu
+   84  sudo wifi-menu
+   85  wifi-menu
+   86  sudo wifi-menu
+   87  polybar bar
+   88  xrandr
+   89  sudo pacman -S xrandr
+   90  sudo pacman -S xorg-xrandr
+   91  xrandr
+   92  vim ~/.config/polybar/config
+   93  polybar bar
+   94  polybar bar
+   95  vim ~/.config/polybar/config
+   96  vim ~/.config/polybar/config
+   97  polybar bar
+   98  cd .config/
+   99  ls
+  100  cd i3
+  101  ls
+  102  cd ..
+  103  pacaur -S sublime-text-dev
+  104  pacman -S sublime-text-dev
+  105  sudo pacman -S sublime-text-dev
+  106  yay -S sublime-text
+  107  subl
+  108  polybar
+  109  polybar bar
+  110  reboot
+  111  ls
+  112  git clone https://github.com/nicomazz/i3-polybar
+  113  git clone https://github.com/nicomazz/i3-polybar-config.git
+  114  ls
+  115  cd i3-polybar-config/
+  116  cd polybar/
+  117  ls
+  118  ranger
+  119  l
+  120  s
+  121  ls
+  122  clear
+  123  sudo pacman -S neofetch
+  124  neofetch
+  125  firefox
+  126  xdg-open .
+  127  nautilus .
+  128  reboot
+  129  polybar bar
+  130  subl ~/.config/polybar/config 
+  131  polybar bar
+  132  polybar bar
+  133  polybar -vvv
+  134  polybar top
+  135  xrandr
+  136  polybar top
+  137  polybar top
+  138  polybar top
+  139  polybar top
+  140  polybar top
+  141  polybar top
+  142  polybar top
+  143  polybar top
+  144  polybar top
+  145  polybar top
+  146  polybar bottom
+  147  polybar bottom
+  148  polybar bottom
+  149  polybar bottom
+  150  polybar bottom
+  151  polybar bottom
+  152  polybar bottom
+  153  polybar main
+  154  polybar main
+  155  reboot
+  156  alsamixer
+  157  alsamixer
+  158  alsamixer
+  159  ls
+  160  subl .config/polybar/launch.sh 
+  161  reboot
+  162  clear
+  163  feh
+  164  feh --bg-scale ~/Downloads/
+  165  feh --bg-scale ~/Downloads/wallpaper.jpg 
+  166  subl ~/.Xresources 
+  167  sudo pacman -S compton
+  168  i3-msg reload
+  169  reboot
+  170  ls
+  171  feh --bg-scale 
+  172  feh --bg-scale '/home/ribeye/Downloads/wallpaper.jpg'
+  173  feh --bg-fit '/home/ribeye/Downloads/wallpaper.jpg'
+  174  neofetch
+  175  clear
+  176  clear
+  177  subl ~/.config/polybar/config 
+  178  reboot
+  179  subl ~/.config/polybar/config 
+  180  poybar main
+  181  polybar main
+  182  feh --bg-fit '/home/ribeye/Downloads/wallpaper.jpg'
+  183  feh --bg-scale '/home/ribeye/Downloads/wallpaper.jpg'
+  184  feh --bg-fit '/home/ribeye/Downloads/wallpaper.jpg'
+  185  clear
+  186  reboot
+  187  feh --bg-scale '/home/ribeye/Downloads/wallpaper.jpg'
+  188  clear
+  189  neofetch
+  190  subl ~/.config/polybar/config 
+  191  reboot
+  192  feh --bg-scale '/home/ribeye/Downloads/wallpaper.jpg'
+  193  feh --bg-scale '/home/ribeye/Downloads/wallpaper2.jpg'
+  194  clear
+  195  neofetch
+  196  feh --bg-scale '/home/ribeye/Downloads/wallpaper2.jpg'
+  197  clear
+  198  feh --bg-scale '/home/ribeye/Downloads/wallpaper2.jpg'
+  199  feh --bg-scale '/home/ribeye/Downloads/wallpaper1.jpg'
+  200  feh --bg-scale '/home/ribeye/Downloads/wallpaper.jpg'
+  201  clear
+  202  feh --bg-scale '/home/ribeye/Downloads/wallpaper3.jpg'
+  203  feh --bg-scale '/home/ribeye/Downloads/wallpaper3.png'
+  204  feh --bg-fill '/home/ribeye/Downloads/wallpaper3.png'
+  205  clear
+  206  neofetch
+  207  history | grep "wal"
+  208  wal -i ~/Downloads/wallpaper3.png 
+  209  clear
+  210  neofetch
+  211  subl
+  212  clearreboot
+  213  reboot
+  214  neofetch
+  215  firefox 
+  216  alsamixer 
+  217  clear
+  218  subl
+  219  i3lock
+  220  i3lock
+  221  sudo pacman -S i3-gaps
+  222  reboot
+  223  neofetch
+  224  subl
+  225  subl
+  226  clear
+  227  subl
+  228  clear
+  229  neofetch
+  230  subl
+  231  neofetc
+  232  neofetch
+  233  clear
+  234  reboot
+  235  firefox
+  236  subl
+  237  reboot
+  238  neofetch
+  239  clear
+  240  sudo subl /etc/hostname 
+  241  reboot
+  242  sudo subl /etc/hostname 
+  243  reboot
+  244  neofetch
+  245  scrot
+  246  clear
+  247  alsamixer 
+  248  sudo pacman -S scrot
+  249  alsamixer 
+  250  cd Desktop/dev/helios-station/
+  251  vim .
+  252  cd Desktop/dev/helios-station/
+  253  vim .
+  254  vim .
+  255  neofetch
+  256  scrot
+  257  nautilus .
+  258  clear
+  259  subl
+  260  i3-msg reload
+  261  clear
+  262  i3-msg reload
+  263  cd Desktop/dev/helios-station/
+  264  vim .
+  265  clear
+  266  neofetch
+  267  nautilus .
+  268  nautilus .
+  269  nautilus .
+  270  firefox
+  271  subl
+  272  i3-msg reload
+  273  cd Desktop/dev/helios-station/
+  274  vim .
+  275  subl
+  276  ssh-keygen -t rsa -b 4096 -C "aleksey@twosense.ai"
+  277  eval "$(ssh-agent -s)"
+  278  ssh-add ~/.ssh/id_rsa
+  279  pbcopy
+  280  sudo pacman -S xclip
+  281  xclip -sel clip < ~/.ssh/id_rsa.pub 
+  282  nautilus .
+  283  cd Desktop/dev/dotfiles/
+  284  git init
+  285  git add .
+  286  git commit -m "initial commit"
+  287  xclip -sel clip < ~/.ssh/id_rsa.pub 
+  288  git commit -m "initial commit"
+  289  git config --global user.email "aleksey@twosense.ai"
+  290  git commit -m "initial commit"
+  291  git config --global user.name "alevkov"
+  292  git commit -m "initial commit"
+  293  git remote add origin git@github.com:alevkov/dotfiles.git
+  294  git push -u origin master
+  295  git push -u origin master
+  296  git push -u origin master
+  297  cd ..
+  298  git clone git@github.com:alevkov/helios-station.git
+  299  pacman -S nvm
+  300  sudo pacman -S nvm
+  301  yay -S nvm
+  302  nvm -v
+  303  echo 'source /usr/share/nvm/init-nvm.sh' >> ~/.bashrc 
+  304  bash
+  305  nvm -v
+  306  nvm --version
+  307  nvm install 8.16
+  308  nvm use 8.16
+  309  node -v
+  310  cd helios-station/
+  311  yarn install
+  312  yay -S yarn
+  313  yay -S yarn
+  314  yarn install
+  315  yarn run dev
+  316  clear
+  317  clear
+  318  l
+  319  ls
+  320  clear
+  321  firefox 
+  322  neofetch 
+  323  clear
+  324  neofetch 
+  325  ls
+  326  clear
+  327  shutdown
+  328  shutdown now
+  329  ls
+  330  clear
+  331  firefox 
+  332  clear
+  333  subl
+  334  alsamixer
+  335  clear
+  336  neofetch
+  337  clear
+  338  firefox
+  339  neofetch
+  340  clear
+  341  neofetch 
+  342  alsamixer
+  343  neofetch
+  344  localectl
+  345  localectl list-x11-keymap-layouts\
+  346  clear
+  347  setxkbmap -layout se
+  348  history
+  349  cd Desktop/dev/dotfiles/
+  350  touch hist
+  351  history > hist
